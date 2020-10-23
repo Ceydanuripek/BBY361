@@ -1,7 +1,7 @@
 Kütüphane Veri Tabanı Analizi
 
 Hayata geçirilecek sistem neye hizmet edecek?
- +Hayata geçirilecek veritabanı, belirli bir yörede yetişen bitkilerin özelliklerini konu alan kitapların yer aldığı bir vakıf kütüphanesi veri tabanıdır.
+ +Hayata geçirilecek veritabanı, belirli bir bölgede yetişen bitkilerin özelliklerini konu alan kitapların yer aldığı bir vakıf kütüphanesi veri tabanıdır.
 
 Veri tabanı hangi ihtiyaçları karşılayacak?
  +Kitapların müsaitlik durumu ve kitapların sayısına ulaşılınabilecektir.
@@ -24,13 +24,18 @@ Veri tabanında ne tür veriler depolanacak?
   - ISBN 
   - Kitap adı
   - Kitabın yazarı
+  - Kitabın yayınevi bilgisi
+  - Kitabın baskı bilgisi
   - Kitabın basım yeri
   - Kitaın basım yılı
   - Kitabın sayfa sayısı
   - Kitabın dili
-  - Hangi yörede yetişen bitkileri içerdiği
+  - Hangi bölgede yetişen bitkileri içerdiği
+  - Kitabın elektronik adresi (varsa)
   
  +Yazar verileri
+ - Yazar adı
+ - Yazar soyadı
  - Yazar adı ve soyadı
  - Yazar numarası
  
